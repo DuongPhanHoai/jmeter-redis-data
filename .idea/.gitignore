@@ -1,0 +1,16 @@
+# Ignore project files
+.settings
+.gradle
+.classpath
+.project
+.idea
+
+*.iml
+
+# Ignore Gradle build output directory
+build
+.scannerwork
+tokens
+bin
+gradle
+target
